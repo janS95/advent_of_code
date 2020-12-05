@@ -20,8 +20,8 @@ Passport data is validated in batch files (your puzzle input). Each passport is 
 
 Here is an example batch file containing four passports:
 
-ecl:gry pid:860033327 eyr:2020 hcl:#fffffd
-byr:1937 iyr:2017 cid:147 hgt:183cm
+<p>ecl:gry pid:860033327 eyr:2020 hcl:#fffffd</p>
+<p>byr:1937 iyr:2017 cid:147 hgt:183cm</p>
 
 iyr:2013 ecl:amb cid:350 eyr:2023 pid:028048884
 hcl:#cfa07d byr:1929
